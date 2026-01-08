@@ -6,3 +6,4 @@ st.write("Hello, world!")
 # Add more interactive components here
 st.slider("Select a number", 0, 100, 25)
 st.button("Click Me")
+#all done with yolo8
