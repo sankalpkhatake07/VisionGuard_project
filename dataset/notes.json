@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "AIDS_Department"
+    },
+    {
+      "id": 1,
+      "name": "BFL"
+    },
+    {
+      "id": 2,
+      "name": "Balconey"
+    },
+    {
+      "id": 3,
+      "name": "Bench"
+    },
+    {
+      "id": 4,
+      "name": "Computer"
+    },
+    {
+      "id": 5,
+      "name": "Faculty_room"
+    },
+    {
+      "id": 6,
+      "name": "HOD_sir_cabin"
+    },
+    {
+      "id": 7,
+      "name": "Ladies_washroom"
+    },
+    {
+      "id": 8,
+      "name": "Lift"
+    },
+    {
+      "id": 9,
+      "name": "Notice_board"
+    },
+    {
+      "id": 10,
+      "name": "Railing"
+    },
+    {
+      "id": 11,
+      "name": "Steps"
+    },
+    {
+      "id": 12,
+      "name": "Table"
+    },
+    {
+      "id": 13,
+      "name": "Water_cooler"
+    },
+    {
+      "id": 14,
+      "name": "White_Board"
+    },
+    {
+      "id": 15,
+      "name": "box"
+    },
+    {
+      "id": 16,
+      "name": "cctv"
+    },
+    {
+      "id": 17,
+      "name": "chair"
+    },
+    {
+      "id": 18,
+      "name": "class_room"
+    },
+    {
+      "id": 19,
+      "name": "fan"
+    },
+    {
+      "id": 20,
+      "name": "fire_safety"
+    },
+    {
+      "id": 21,
+      "name": "person"
+    },
+    {
+      "id": 22,
+      "name": "plane"
+    },
+    {
+      "id": 23,
+      "name": "pole"
+    },
+    {
+      "id": 24,
+      "name": "projector"
+    },
+    {
+      "id": 25,
+      "name": "smart_board"
+    },
+    {
+      "id": 26,
+      "name": "switch_board"
+    },
+    {
+      "id": 27,
+      "name": "window"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

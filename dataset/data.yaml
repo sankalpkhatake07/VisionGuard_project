@@ -1,0 +1,6 @@
+
+train: E:\CEP_Project\dataset/images/train
+val: E:\CEP_Project\dataset/images/val
+
+nc: 28
+names: ['AIDS_Department', 'BFL', 'Balconey', 'Bench', 'Computer', 'Faculty_room', 'HOD_sir_cabin', 'Ladies_washroom', 'Lift', 'Notice_board', 'Railing', 'Steps', 'Table', 'Water_cooler', 'White_Board', 'box', 'cctv', 'chair', 'class_room', 'fan', 'fire_safety', 'person', 'plane', 'pole', 'projector', 'smart_board', 'switch_board', 'window']
