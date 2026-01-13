@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import cv2
 import tempfile
 import pyttsx3
-
+# Sankalp Khatake
 # Initialize model and TTS
 model = YOLO("runs/detect/custom_yolo_model/weights/best.pt")
 engine = pyttsx3.init()
